@@ -80,3 +80,12 @@ Double Dot Studios
 ```
 |Pixel Dungeon Tileset, ase-Pixel Dungeon Tileset| Double Dot Studios CC BY 4.0
 ```
+
+## Credit
+
+M - Modified  
+U - Unchanged  
+
+|Asset|Pack|Status|Creator|License|Used for|
+|-----|----|------|-------|-------|--------|
+|tile_0085|Tiny Dungeon|M|Kenney|CC0|Young Adventurers|
