@@ -89,3 +89,4 @@ U - Unchanged
 |Asset|Pack|Status|Creator|License|Used for|
 |-----|----|------|-------|-------|--------|
 |tile_0085|Tiny Dungeon|M|Kenney|CC0|Young Adventurers|
+|tile_0084|Tiny Dungeon|M|Kenney|CC0|Dungeon Bosses|
